@@ -45,4 +45,31 @@ Git Commands
    48  git push origin master
 give username and token password
 
+Commands to pull:
+ 1  which git
+    2  git --version
+    3  mkdir ohio
+    4  cd ohio
+    5  git init
+    6  git congig --global user.name "Haripriya"
+    7  git config --global user.name "Haripriya"
+    8  git config --global user.email "hari@gmail.com"
+    9  git config --list
+   10  ls
+   11  git init
+   12  git remote add origin https://github.com/Pareekshith91/Git.git
+   13  git pull origin master
+   14  ls
+   15  git log
+   16  vi myfile
+   17  git status
+   18  git add myfile
+   19  git status
+   20  git commit -m "This is from ohio developer"
+   21  git status
+   22  git log
+   23  git show  c7b65d3166270d88bf5a32a122bbf26cce11c17f
+   24  git push origin master
+   
+
 
