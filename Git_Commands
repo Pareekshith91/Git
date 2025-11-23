@@ -1,0 +1,48 @@
+Git Commands
+1  apt update
+    2  apt install git
+    3  git --version
+    4  which git
+    5  which jenkins
+    6  which git
+    7  mkdir mum-dir
+    8  ls
+    9  cd mum-dir
+   10  pwd
+   11  git config --global user.name "Pareekshith"
+   12  git config --global user.email "paree91@gmail.com"
+   13  git config --list
+   14  git init
+   15  cat > myfile
+   16  ls
+   17  cat myfile
+   18  git status
+   19  git add myfile
+   20  git status
+   21  git commit -m "this is my first commit"
+   22  git status
+   23  ls
+   24  cd mum-dir
+   25  history
+   26  cat > gitcommands
+   27  git status
+   28  ls
+   29  cd mum-dir
+   30  ls
+   31  cat > gitcommands
+   32  git status
+   33  git add gitcommands
+   34  git status
+   35  git commit -m "This is a git commands"
+   36  cd mum-dir
+   37  git log
+   38  git show fb40ebe226e25d17e6b827ca6a9ab8486d04285a
+   39  git show 60b7324546d26038ef0854aaa8e1eea1e87adbc4
+   40  git remote add origin https://github.com/Pareekshith91/Git.git
+   41  git push origin master
+   42  cd mum-dir
+   43  git remote add origin https://github.com/Pareekshith91/Git.git
+   48  git push origin master
+give username and token password
+
+
